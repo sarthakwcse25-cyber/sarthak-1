@@ -1,0 +1,17 @@
+<html>
+<head>
+  <title>project<title>
+</head>
+<body>
+<header>
+  <h1>Welcoome to my site</h1>
+</header>
+<p>This paragraph is about tags<br>
+<b>HTML</b>is<i>very</i>eassy<br>
+<u>Note</u>Always close tags
+</p>
+<footer>
+<p>Thank you for visiting</p>
+</footer>
+</body>
+</html>
